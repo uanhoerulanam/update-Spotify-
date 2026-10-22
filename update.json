@@ -1,1 +1,13 @@
-https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/update.json
+{
+"is_active": true,
+"is_forced": false,
+"url": "https://example.com/aplikasi.apk",
+"ui": {
+"title": "Update Tersedia",
+"label": "INFORMASI UPDATE",
+"btn_text": "UPDATE SEKARANG",
+"btn_text_color": "#FFFFFF",
+"btn_bg": "#000000",
+"img_url": ""
+}
+}
